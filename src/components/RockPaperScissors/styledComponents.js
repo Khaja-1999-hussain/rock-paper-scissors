@@ -49,7 +49,7 @@ export const ScorePhrase = styled.p`
 `
 export const ScoreNumber = styled.p`
   font-size: 28px;
-  font-family: 'Bree Serif';
+  font-family: 'Roboto';
   font-weight: 700;
   color: #223a5f;
 `
